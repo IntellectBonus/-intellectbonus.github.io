@@ -1,0 +1,15 @@
+title: Intellect Bonus
+email: intellectbonus@gmail.com
+description: >-
+  Welcome to my corner of the internet. You'll find posts about programming, gaming and most things nerdy. I hope you enjoy your stay and return often.
+baseurl: ""
+url: "www.intellectbonus.com"
+twitter_username: intellectbonus
+github_username:  intellectbonus
+author: Josh Richard
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
